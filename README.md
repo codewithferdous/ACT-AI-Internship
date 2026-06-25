@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="The_AI_Creator_s_Toolkit.pnghttps://notebooklm.google.com/notebook/9219c72f-d3ea-4633-a828-e655c81949c5/artifact/b2068d53-0f2f-4488-b1da-3a22e2b812e9?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_" alt="Modern AI Toolkit" width="700"/>
+  <img src="AI_Power-User_s_Blueprint_Guide.png" alt="Modern AI Toolkit" width="700"/>
 </p>
 
 <h1 align="center">🧠 Modern AI Toolkit — AI Tools & Prompt Engineering</h1>
